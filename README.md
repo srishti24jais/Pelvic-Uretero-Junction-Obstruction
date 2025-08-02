@@ -5,14 +5,14 @@ This research introduces a approach that merges real-time ultrasound imaging wit
 
 # Confusion Matrix (Output)
   
- ![image](https://github.com/aliazam1291/Pubjo-Using-Deep-Learning/assets/71867983/f3be2b70-0c6f-4c72-ae9c-023d4c33660f)
+ ![image]((https://github.com/srishti24jais/Pelvic-Uretero-Junction-Obstruction/blob/91068a9250b6b5379d0f7da743e007de3e2ef485/1.jpg))
 
 # t-sne Visualitzation using pre-trained Models
 
-![image](https://github.com/aliazam1291/Pubjo-Using-Deep-Learning/assets/71867983/61af6280-2178-402d-89b4-17b14975346c)
+![image](https://github.com/srishti24jais/Pelvic-Uretero-Junction-Obstruction/blob/91068a9250b6b5379d0f7da743e007de3e2ef485/2.jpg)
 
 # Activation Maps
 
-![image](https://github.com/aliazam1291/Pubjo-Using-Deep-Learning/assets/71867983/277c7ae2-d765-406a-bfaf-5a267854560a)
+![image](https://github.com/srishti24jais/Pelvic-Uretero-Junction-Obstruction/blob/91068a9250b6b5379d0f7da743e007de3e2ef485/3.jpg)
  
 
